@@ -1,9 +1,8 @@
 function scuberGreetingForFeet(feet){
   // Write your code here!
   if (feet <= 400) {
-
+    
   }
-  ]
 }
 
 function ternaryCheckCity(){
